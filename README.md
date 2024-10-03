@@ -1,7 +1,8 @@
 ## Hi there 👋
 #### I'm a software developer located in Varna, Bulgaria BG
 
-![cyber-security-expert-working-with-technology-neon-lights](https://github.com/user-attachments/assets/4785bf8b-fed9-4cb7-8aba-70c53f05cd96)
+![coding-3013602_1280](https://github.com/user-attachments/assets/3b4accf6-b919-480b-9d47-f76a1c79d838)
+
 
 - 🔨At the moment, I'm actively working on creating REST APIs with Flask.
 - 🔥 My interests span Frontend/Backend development, Data Science, Machine Learning, Automation, Cyber Security, and Ethical Hacking.
