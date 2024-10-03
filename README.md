@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-🔥 I'm interested in front-end/back-end development; data science, machine learning, automation, AI; cyber security, ethical hacking.
+![Alt Text](https://tenor.com/view/coding-gif-25731151)
+
+🔥 I'm interested in front-end/back-end development; data science, machine learning, automation, cyber security, ethical hacking.
 ## Skils:
 [![My Skills](https://skillicons.dev/icons?i=py,js,php,html,css,django,flask,react,redux,nodejs,express,wordpress,linux,postgres,mongodb,mysql,docker,azure,aws,terraform,git,githubactions,vite,figma,bootstrap,vscode,)](https://skillicons.dev)
 
