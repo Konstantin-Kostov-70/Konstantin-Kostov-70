@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+## Skils:
 [![My Skills](https://skillicons.dev/icons?i=py,js,php,html,css,django,flask,react,redux,nodejs,express,wordpress,linux,postgres,mongodb,mysql,docker,azure,aws,terraform,git,githubactions,vite,figma,bootstrap,vscode,)](https://skillicons.dev)
 
 <!--
