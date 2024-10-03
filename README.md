@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![tenor](https://github.com/user-attachments/assets/481dea84-1eb1-4c89-a45c-d78a521547ca)
+![tenor (1)](https://github.com/user-attachments/assets/0a069ae3-c5cc-4955-a5a9-d41e196b2fc9)
 
 🔥 I'm interested in front-end/back-end development; data science, machine learning, automation, cyber security, ethical hacking.
 ## Skils:
