@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm a software developer located in Varna, Bulgaria BG
 
-![tenor (2)](https://github.com/user-attachments/assets/8996d808-a4ff-47c8-83f4-defd7122e470)
+![tenor (3)](https://github.com/user-attachments/assets/0b2e2f26-0046-4aa2-91ff-f3c65016269c)
 
 - 🔨At the moment, I'm actively working on creating REST APIs with Flask.
 - 🔥 My interests span Frontend/Backend development, Data Science, Machine Learning, Automation, Cyber Security, and Ethical Hacking.
