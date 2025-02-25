@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm a software developer located in Varna, Bulgaria BG
+#### I'm a software developer located in Oslo, Norway NO
 
 ![coding-time](https://github.com/user-attachments/assets/9119000f-e489-4eb4-b693-c64a96f45686)
 - 🔨At the moment, I'm actively working on creating REST APIs with Flask.
